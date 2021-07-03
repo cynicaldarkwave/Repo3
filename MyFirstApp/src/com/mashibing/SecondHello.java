@@ -11,4 +11,5 @@ import java.io.Serializable;
 public class SecondHello implements Serializable {
 
     private static final long serialVersionUID = -1469112502215614905L;
+    private String student;
 }
